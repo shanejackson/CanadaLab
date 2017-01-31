@@ -66,3 +66,4 @@ C:\Lab03\Lab03\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Lab03\Lab03\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Lab03\Lab03\obj\Debug\Lab03.dll
 C:\Lab03\Lab03\obj\Debug\Lab03.pdb
+C:\Lab03\Lab03\obj\Debug\Lab03.csprojResolveAssemblyReference.cache
